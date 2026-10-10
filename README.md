@@ -13,12 +13,12 @@ SEKIRO: Shadows Die Twice の高難易度MOD「Long May the Shadows Reflect(LMTS
 - [docs/main.md](docs/main.md): 本編の流れと追加ボス
 - [docs/bosses.md](docs/bosses.md): 全MODボスの索引（92体）
 - [docs/items.md](docs/items.md): MOD専用アイテムの解説
-- [docs/extra-1.md](docs/extra-1.md): 追加イベント1: (舞台)
-- [docs/extra-2.md](docs/extra-2.md): 追加イベント2: (舞台)
-- [docs/extra-3.md](docs/extra-3.md): 追加イベント3: (舞台)
-- [docs/extra-4.md](docs/extra-4.md): 追加イベント4: (舞台)
-- [docs/extra-5.md](docs/extra-5.md): 追加イベント5: (舞台)
-- [docs/extra-6.md](docs/extra-6.md): 追加イベント6: (舞台)
+- [docs/extra-1.md](docs/extra-1.md): 追加イベント1
+- [docs/extra-2.md](docs/extra-2.md): 追加イベント2
+- [docs/extra-3.md](docs/extra-3.md): 追加イベント3
+- [docs/extra-4.md](docs/extra-4.md): 追加イベント4
+- [docs/extra-5.md](docs/extra-5.md): 追加イベント5
+- [docs/extra-6.md](docs/extra-6.md): 追加イベント6
 
 ## 方針
 
